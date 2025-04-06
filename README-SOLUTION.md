@@ -200,3 +200,4 @@ Represents a guest's appearance on an episode with a rating.
 - A Guest has many Episodes through Appearances
 - An Appearance belongs to both an Episode and a Guest
 - Cascade delete is configured for Appearances when an Episode or Guest is deleted
+
